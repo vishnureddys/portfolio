@@ -1,94 +1,112 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"vishnusreddy.me",
+    "name": "Vishnu S Reddy",
+    "role": "Backend Developer and Data Scientist",
+    "linkedinId":" vishnu-s-reddy",
+    "skypeid": " vishnusreddy ",
+    "roleDescription": " I like dabbling in various parts of web development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/vishnu-s-reddy/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/vishnureddys",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"http://twitter.com/vishnu_s_reddy",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently a second year student at PES University and pursuing my B.Tech in Computer Science and Engineering from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "website":"vishnusreddy.me",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"PES University",
+        "specialization":"B.Tech in Computer Science and Engineering",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2022",
+        "Achievements":"Current CGPA of 8.30"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "UniversityName":"Christ Junior College",
+        "specialization":"Pre University in PCME",
+        "MonthOfPassing":"May",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Graduated with a percentage of 95% in the core subjects and overall score of 91%."
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Kacach Networks",
+        "specialization":"Backend Intern",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2020",
+        "Achievements":"Working to create Django Rest APIs for a Paying Guest Management System."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"OpenGenus Foundation",
+        "specialization":"Software Development Intern",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2020",
+        "Achievements":"Writing multiple technical articles and software development tasks for COSMOS."
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Skilled in mutliple languages, frameworks and fields. Always learning and trying out new tools and technologies.",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Python"
       },
       {
-        "skillname":"CSS"
+        "skillname":"C"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"HTML"
+      },
+      {
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"Django"
+      },
+      {
+        "skillname":"ReactJs"
+      },
+      {
+        "skillname":"MySQL and SQL Server"
+      },
+      {
+        "skillname":"Data Science"
+      },
+      {
+        "skillname":"Version Control with Git"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Suspect Management System",
+        "description":"Witness Protection WebApp built with django.",
+        "imgurl":"images/portfolio/suspect.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Delhi Weather Analysis",
+        "description":"Data Science Project using python.",
+        "imgurl":"images/portfolio/delhi.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Graduation Course Sequence Planner",
+        "description":"A project making use of my knowledge in Data Structures.",  
+        "imgurl":"images/portfolio/grad.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Car Game in HTML",
+        "description":"A small car game using HTML, CSS and JQuery.",
+        "imgurl":"images/portfolio/car-game.png"
       }
     ],
     "testimonials":[

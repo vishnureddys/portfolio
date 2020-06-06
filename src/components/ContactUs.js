@@ -17,6 +17,12 @@ export default class ContactUs extends Component {
                 <h4>Linked in :
                   {resumeData.linkedinId}
                 </h4>
+                <h4>Phone Number:
+                  +91 97429 14197
+                </h4>
+                <h4>Email:
+                  vishnusreddy007@gmail.com
+                </h4>
               </div>
             </aside>
           </div>
