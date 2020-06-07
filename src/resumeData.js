@@ -43,7 +43,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Kacach Networks",
+        "CompanyName":"Kavach Networks",
         "specialization":"Backend Intern",
         "MonthOfLeaving":"May",
         "YearOfLeaving":"2020",
